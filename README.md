@@ -2,11 +2,10 @@
 "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang = "en-US">
 <head>
-<title>Anonymous StartUps</title>
 </head>
 <body>
     <center><h1>So... Seeking a StartUp??? How About One Of These
-    <img src = "C:\xampp\htdocs\AnonymousXamppFolder\imgs\arrow2.png" width = "50" height = "30"></h1>
+    <img src = "imgs\arrow.png" width = "50" height = "30"></h1>
     </center>
 <br>
 <br>
