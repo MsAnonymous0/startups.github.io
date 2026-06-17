@@ -5,7 +5,7 @@
 </head>
 <body>
     <center><h1>So... Seeking a StartUp??? How About One Of These
-    <img src = "startups.github.io/arrow2.png" width = "50" height = "30"></h1>
+    <img src = "https://github.com/MsAnonymous0/startups.github.io/arrow2.png" width = "50" height = "30"></h1>
     </center>
 <br>
 <br>
