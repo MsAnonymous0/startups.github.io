@@ -34,6 +34,7 @@
 <br>
 <br>
     <center>
+        <button onclick="alert('aboutalert')"><u>About</u></button>
         <button onclick="myFunction()"><u>About</u></button>
         <script>function myFunction(){alert ("AboutAbout");}</script>
 <br>
